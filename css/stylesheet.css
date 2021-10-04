@@ -1,0 +1,15 @@
+<style>
+	body{
+		background-color: black;
+        color: white;
+        font-size:12px;
+ 		max-width: 1024px;
+	}
+	.box {
+		background-color: gold;
+		font-size: 5vw;
+		padding: 10vw;
+		margin: 5vw;
+		border: solid;
+	}
+</style>
