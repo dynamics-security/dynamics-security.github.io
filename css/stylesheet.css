@@ -2,6 +2,8 @@
 	html{
 		font-size:10px;
 		background-color: black;
+		font-family: Helvetica;
+		text-align: left;
 		
 	}
 	body{
@@ -13,7 +15,8 @@
 	strong{
 		font-weight: bold
 		font-size: 1.5rem;
-		color: red
+		color: black
+		font-family: Helvetica;		
 	}
 	.eventName{
 		font-weight: bold
