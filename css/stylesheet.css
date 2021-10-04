@@ -1,15 +1,14 @@
 <style>
-	body{
+	html{
+		font-size:10px;
 		background-color: black;
-        color: white;
-        font-size:12px;
+		
+	}
+	body{
+        color: red;
  		max-width: 1024px;
+ 		padding: 20px;
+ 		margin: auto;
 	}
-	.box {
-		background-color: gold;
-		font-size: 5vw;
-		padding: 10vw;
-		margin: 5vw;
-		border: solid;
-	}
+
 </style>
