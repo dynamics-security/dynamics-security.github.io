@@ -16,16 +16,16 @@
 	}
 	
 	strong{
-		font-weight: bold
+		font-weight: bold;
 		font-size: 1.5rem;
-		color: black
+		color: black;
 		font-family: Helvetica;		
 	}
 	
-	eventName{
-		font-weight: bold
-		font-size: 20rem;
+	.eventName{
+		font-weight: bold;
 		font-family: Helvetica;
+		font-size: 20rem;
 		text-align: center;
 	}
 
