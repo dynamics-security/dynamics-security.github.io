@@ -16,6 +16,9 @@
 		color: red
 	}
 	.eventName{
+		font-weight: bold
+		font-size: 3rem;
+		font-family: Helvetica;
 		text-align: center;
 	}
 
