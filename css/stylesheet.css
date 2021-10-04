@@ -6,6 +6,7 @@
 		text-align: left;
 		
 	}
+	
 	body{
         color: black;
  		max-width: 1024px;
@@ -13,13 +14,15 @@
  		margin: auto;
  		font-family: Helvetica;	
 	}
+	
 	strong{
 		font-weight: bold
 		font-size: 1.5rem;
 		color: black
 		font-family: Helvetica;		
 	}
-	.eventName{
+	
+	eventName{
 		font-weight: bold
 		font-size: 20rem;
 		font-family: Helvetica;
