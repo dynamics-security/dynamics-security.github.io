@@ -14,5 +14,8 @@
 		font-weight: bold
 		font-size: 1.5rem;
 	}
+	.eventName{
+		text-align: center;
+	}
 
 </style>
