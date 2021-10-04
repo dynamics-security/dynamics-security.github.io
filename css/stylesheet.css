@@ -25,8 +25,15 @@
 	.eventName{
 		font-weight: bold;
 		font-family: Helvetica;
-		font-size: 2rem;
+		font-size: 1.6rem;
 		text-align: center;
+	}
+	
+	.keynoteSpeaker{
+		font-weight: bold;
+		font-family: Helvetica;
+		font-size: 1.2rem;
+		text-align: left;
 	}
 	
 	.deadline{
