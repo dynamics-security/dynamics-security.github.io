@@ -13,6 +13,7 @@
 	strong{
 		font-weight: bold
 		font-size: 1.5rem;
+		color: red
 	}
 	.eventName{
 		text-align: center;
