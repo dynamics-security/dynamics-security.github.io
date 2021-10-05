@@ -63,8 +63,9 @@
 	.workshopOrganizers{
 		font-weight: bold;
 		font-family: Helvetica;
-		font-size: 1.2rem;
+		font-size: 1.5rem;
 		text-align: left;
+		color: navy
 	}
 	
 	.organizer{
