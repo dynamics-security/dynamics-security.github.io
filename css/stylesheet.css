@@ -65,7 +65,9 @@
 		font-family: Helvetica;
 		font-size: 1.5rem;
 		text-align: left;
-		color: navy
+		color: navy;
+		text-align: center;
+		
 	}
 	
 	.organizer{
@@ -81,7 +83,7 @@
 		font-family: Helvetica;
 		font-size: 1rem;
 		text-align: left;
-		color: #444444
+		color: #444444;
 		margin-left: 10px;
 	}	
 	
