@@ -22,6 +22,14 @@
 		font-family: Helvetica;		
 	}
 	
+	.topic{
+		font-weight: bold;
+		font-family: Helvetica;
+		font-size: 1.3rem;
+		text-align: left;
+		margin-left: 10px;
+	}
+	
 	.eventName{
 		font-weight: bold;
 		font-family: Helvetica;
@@ -73,7 +81,7 @@
 		font-family: Helvetica;
 		font-size: 1rem;
 		text-align: left;
-		margin-left: 10px;
+		margin-left: 40px;
 	}
 	
 	.affiliation{
@@ -82,7 +90,7 @@
 		font-size: 1rem;
 		text-align: left;
 		color: #444444;
-		margin-left: 30px;
+		margin-left: 60px;
 	}	
 	
 	
