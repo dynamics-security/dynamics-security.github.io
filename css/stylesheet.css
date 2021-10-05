@@ -41,6 +41,7 @@
 		font-family: Helvetica;
 		font-size: 1rem;
 		color: red;
+		margin-left: 60px;
 	}
 	
 	.importantDate{
@@ -48,6 +49,7 @@
 		font-family: Helvetica;
 		font-size: 1rem;
 		color: black;
+		margin-left: 40px;
 	}
 	
 	.importantDateBox{
