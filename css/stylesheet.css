@@ -9,7 +9,7 @@
 	
 	body{
         color: black;
- 		max-width: 1024px;
+ 		max-width: max-content;
  		padding: 20px;
  		margin: auto;
  		font-family: Helvetica;	
